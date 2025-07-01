@@ -13,11 +13,15 @@ The **Tourism Management System** is a database-centric project designed to simu
 
 ## 🧱 Features
 
-- **Tour Package Management**
-- **Customer Information Management**
-- **Booking System**
-- **Payments & Transactions**
-- **Feedback Mechanism**
+🏝️ Tour Package Management – Add, update, and query tour details.
+
+👤 Customer Information Management – Maintain personal and contact details.
+
+📅 Booking System – Manage bookings linked to tours and customers.
+
+💰 Payments & Transactions – Track transactions, payment status, and revenue.
+
+📝 Feedback Mechanism – Record and analyze customer feedback.
 
 ---
 
@@ -65,3 +69,12 @@ This project is a submission for a **Database Management Systems (DBMS)** course
 - Relational schema design
 - Querying with SQL
 - Data integrity via constraints
+
+---
+
+## 💡 Future Enhancements
+
+* Add stored procedures and triggers
+* Integrate with a frontend using Flask or React
+* Implement report generation (PDF/CSV exports)
+* Apply real-world constraints (e.g., max group size, date validations)
