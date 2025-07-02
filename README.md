@@ -51,7 +51,7 @@ The **Tourism Management System** is a database-centric project designed to simu
 
 ## 🔄 Normalization
 
-- All tables follow **Third Normal Form (3NF)**
+- All tables follow **Boyce Codd Normal Form (BCNF)**
 - Redundancy minimized using foreign keys
 
 ---
