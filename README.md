@@ -78,3 +78,14 @@ This project is a submission for a **Database Management Systems (DBMS)** course
 * Integrate with a frontend using Flask or React
 * Implement report generation (PDF/CSV exports)
 * Apply real-world constraints (e.g., max group size, date validations)
+
+---
+
+## 👥 Group Members
+
+- **Sahil Sutariya** – 202201119  
+- **Meet Andharia** – 202201145  
+- **Dev Dodiya** – 202201153  
+- **Malhar Vaghasiya** – 202201183  
+- **Akshat Joshi** – 202201185  
+
